@@ -1,0 +1,15 @@
+global install typescript,
+install parcel bundler,
+install ts-node
+
+
+basic types;
+ primitive and object types;
+ 
+function typing + annotations;
+type definition files;
+arrays in ts;
+module systems;
+classes+refresher on oop;
+projects;
+
